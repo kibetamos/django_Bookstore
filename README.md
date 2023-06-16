@@ -1,2 +1,20 @@
-# django_Bookstore
-Bookstore project, using Docker, add a custom user model, and implement tests
+# Bookstore Project
+
+This is a bookstore project that uses Docker, includes a custom user model, and implements tests.
+
+## Project Structure
+
+- `Dockerfile`: Defines the Docker image for the application.
+- `docker-compose.yml`: Defines the services and dependencies for the Docker containers.
+- `app/`: Directory to store the application code.
+- `tests/`: Directory to store the test code.
+
+## Setup
+
+1. Clone the repository:
+
+   ```shell
+   git clone https://github.com/kibetamos/django_Bookstore.git
+
+   
+
