@@ -17,4 +17,9 @@ This is a bookstore project that uses Docker, includes a custom user model, and 
    git clone https://github.com/kibetamos/django_Bookstore.git
 
    
+Build and run the Docker containers:
 
+    ``shell
+    docker-compose up --build
+
+Implement your custom user model:
