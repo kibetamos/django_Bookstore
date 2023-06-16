@@ -1,6 +1,1 @@
-gundua-nlp.code-workspace
 env/
-*.pyc
-
-copilot/
-scripts/torch-1.12.0-cp38-cp38-manylinux1_x86_64.whl
