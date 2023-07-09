@@ -12,6 +12,7 @@ This is a bookstore project that uses Docker, includes a custom user model, and 
 ## Setup
 
 1. Clone the repository:
+2. 
 
    ```shell
    git clone https://github.com/kibetamos/django_Bookstore.git
