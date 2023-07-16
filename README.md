@@ -22,5 +22,6 @@ Build and run the Docker containers:
 
     ``shell
     docker-compose up --build
+    ``
 
 Implement your custom user model:
