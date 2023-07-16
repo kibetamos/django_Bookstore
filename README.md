@@ -1,4 +1,4 @@
-# Bookstore Project
+# Bookstore Project - Python
 
 This is a bookstore python-django project that uses Docker, includes a custom user model, and implements tests.
 
