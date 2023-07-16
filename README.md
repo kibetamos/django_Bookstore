@@ -20,7 +20,7 @@ This is a bookstore python-django project that uses Docker, includes a custom us
    
 Build and run the Docker containers:
 
-    ``shell
+    ``
     docker-compose up --build
     ``
 
