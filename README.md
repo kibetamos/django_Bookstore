@@ -18,6 +18,5 @@ This is a bookstore python-django project that uses Docker, includes a custom us
    git clone https://github.com/kibetamos/django_Bookstore.git
 
    
-Build and run the Docker containers:
 
     
