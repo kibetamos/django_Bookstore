@@ -23,7 +23,9 @@ This is a bookstore python-django project that uses Docker, includes a custom us
 4. Install requirements file  by running:
       - pip install -r requirements.txt
   
-5. Start the project
+5. Start the project:
+
+      - python manage.py runserver
    
 
     
