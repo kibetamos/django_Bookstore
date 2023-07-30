@@ -13,7 +13,7 @@ This is a bookstore python-django project that uses Docker, includes a custom us
 ## Setup
 
 1. Clone the repository:
-   git clone https://github.com/kibetamos/django_Bookstore.git
+      git clone https://github.com/kibetamos/django_Bookstore.git
 
    
 
