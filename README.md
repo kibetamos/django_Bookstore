@@ -6,7 +6,7 @@ This is a bookstore python-django project that uses Docker, includes a custom us
 
 - `Dockerfile`: Defines the Docker image for the application.
 - `docker-compose.yml`: Defines the services and dependencies for the Docker containers.
-- `app/`: Directory to store the application code.
+- `config/`: Directory to store the application code.
 - `tests/`: Directory to store the test code.
 
 ## Setup
