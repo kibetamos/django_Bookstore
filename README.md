@@ -2,7 +2,7 @@
 
 This is a bookstore python-django project that uses Docker, includes a custom user model, and implements tests.
 
-## Project Structure
+## Bookstore Project Structure
 
 - `Dockerfile`: Defines the Docker image for the application.
 - `docker-compose.yml`: Defines the services and dependencies for the Docker containers.
