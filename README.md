@@ -13,13 +13,14 @@ This is a bookstore python-django project that uses Docker, includes a custom us
 ## Setup
 
 1. Clone the repository:
+
       - git clone https://github.com/kibetamos/django_Bookstore.git
 
-2. Enable the virtual environment;
+3. Enable the virtual environment;
    
       - source env/bin/activate
 
-3. Install requirements file  by running:
+4. Install requirements file  by running:
       - pip install -r requirements.txt
    
 
