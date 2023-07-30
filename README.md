@@ -15,7 +15,8 @@ This is a bookstore python-django project that uses Docker, includes a custom us
 1. Clone the repository:
       git clone https://github.com/kibetamos/django_Bookstore.git
 
-2.
+2. Install requirements file  by running:
+           pip install -r requirements.txt
    
 
     
