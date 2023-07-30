@@ -26,6 +26,9 @@ This is a bookstore python-django project that uses Docker, includes a custom us
 5. Start the project:
 
       - python manage.py runserver
+  
+      - Access it on port 8000 localy
+   
    
 
     
