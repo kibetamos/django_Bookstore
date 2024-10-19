@@ -18,9 +18,9 @@ This is a bookstore python-django project that uses Docker, includes a custom us
 
 This project incorporates a CI/CD pipeline using GitHub Actions to automate the testing, building, and deployment processes. Key features include:
 
-    Automated Testing: Each code change triggers automated tests to ensure the application’s functionality remains intact.
+  Automated Testing: Each code change triggers automated tests to ensure the application’s functionality remains intact.
     
-    Continuous Deployment: Successful builds are automatically deployed to staging or production environments, facilitating quicker releases.
+  Continuous Deployment: Successful builds are automatically deployed to staging or production environments, facilitating quicker releases.
 
 ## Setup
 
