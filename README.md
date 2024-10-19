@@ -21,8 +21,9 @@ This project incorporates a CI/CD pipeline using GitHub Actions to automate the 
   1. Automated Testing: Each code change triggers automated tests to ensure the application’s functionality remains intact.
     
   2. Continuous Deployment: Successful builds are automatically deployed to staging or production environments, facilitating quicker releases.
+The application is containerized using Docker, ensuring consistency across different environments. This minimizes the "it works on my machine" issues.
 
-By integrating DevOps practices, we promote collaboration between development and operations teams, enhance deployment efficiency, and foster a culture of continuous improvement.
+The docker-compose.yml file allows you to define and run multi-container Docker applications, simplifying the management of application dependencies and configurations.
 
 ## Setup
 
